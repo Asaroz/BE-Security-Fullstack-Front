@@ -12,4 +12,5 @@ This demonstrates a frontend for a separate backend project; https://github.com/
 - remove unused files
 - clean up existing components
 - clean up package.json
+- create libs folder and add independent js file for making requests
 - add registration
